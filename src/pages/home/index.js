@@ -13,7 +13,6 @@ export default function Home() {
         <main>
           <DetailCourse />
           <DetailSilabo />
-          <VisitsCounterCountry />
         </main>
       </div>
       <Footer />

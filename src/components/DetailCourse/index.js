@@ -1,5 +1,7 @@
 import React from "react";
 
+import hugoVega from "../../assets/img/Hugo_Vega.jpg";
+
 export default function DetailCourse() {
   return (
     <div id="inf_general">
@@ -79,7 +81,7 @@ export default function DetailCourse() {
                 <div className="center">
                   <img
                     className="img-fluid img_prof"
-                    src="assets/img/Hugo_Vega.jpg"
+                    src={hugoVega}
                     alt="Profesor Hugo Vega Huerta"
                   />
                   <blockquote>
