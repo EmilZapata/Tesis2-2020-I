@@ -112,25 +112,25 @@ const dataSilabo = [
   },
   {
     semana: 14,
-    title: "Presentación Final de los primeros 3 capítulos de la tesis",
+    title: "Capitulo III, 4 articulos 2 azul, 2 verde (CORREGIDO) y 1 tesis.",
     description:
-      "Se realiza una revision general de los primeros 3 capítulos de la tesis",
+      "Capitulo III, 4 articulos 2 azul, 2 verde (CORREGIDO) y 1 tesis.",
     link:
       "https://drive.google.com/drive/folders/1Iygp2QkBpJ1p87udwcMl426gtm2k0bn6?usp=sharing",
     observaciones: "Corregir formato del documento y agregar Cápitulo 3",
   },
   {
     semana: 15,
-    title: "Presentación a Jurado",
-    description: "Presentación a Jurado",
+    title: "Capitulo IV, V y VI(opcional).",
+    description: "Capitulo IV, V y VI(opcional).",
     link:
       "https://drive.google.com/drive/folders/1ByGcRKFEFCvkt2QiOfQ2j64ge1Y1su9r?usp=sharing",
     observaciones: "",
   },
   {
     semana: 16,
-    title: "Presentación Final",
-    description: "Presentación Final y Articulo",
+    title: "Tesis hasta el cap VI y Artículo.",
+    description: "Tesis hasta el cap VI y Artículo.",
     link:
       "https://drive.google.com/drive/folders/1Iygp2QkBpJ1p87udwcMl426gtm2k0bn6?usp=sharing",
     observaciones: "",

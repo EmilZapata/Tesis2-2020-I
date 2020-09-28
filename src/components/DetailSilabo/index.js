@@ -70,6 +70,51 @@ export default function DetailSilabo() {
               </tbody>
             </table>
           </div>
+          <h5>EXTRA</h5>
+          <div className="desarrollo-tabla">
+            <table className="table table-bordered table-responsive">
+              <thead>
+                <tr>
+                  <th className="col2">Tema</th>
+                  <th className="col3">Entregable</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td className="col1">Presentación frente a jurado.</td>
+                  <td className="col2">
+                    <a href="https://drive.google.com/file/d/1UT04eEBuiAd9OeqwPt_wKDPZZwyp-pE8/view?usp=sharing">
+                      Emil Zapata
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td className="col1">Artículo.</td>
+                  <td className="col2">
+                    <a href="https://drive.google.com/file/d/1TEKqo2sOFWDmA9rAAhyB-bsuARH27t-N/view?usp=sharing">
+                      Emil Zapata
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td className="col1">Formato de inscripción tesis.</td>
+                  <td className="col2">
+                    <a href="https://drive.google.com/file/d/1fEI5DmvCrnzKEdi4WNSK-vX-LO4zbUQ8/view?usp=sharing">
+                      Emil Zapata
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td className="col1">Video exposición.</td>
+                  <td className="col2">
+                    <a href="https://drive.google.com/file/d/1zCoHeAOMhlbyylX2KcBK-7A5yx9Bj-XL/view?usp=sharing">
+                      Emil Zapata
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </section>
         <aside className="col-2">
           <h5>Otros grupos</h5>
