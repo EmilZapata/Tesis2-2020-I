@@ -101,7 +101,7 @@ export default function DetailSilabo() {
                       Emil Zapata
                     </a>
                     <br />
-                    <a href="https://drive.google.com/drive/folders/1YhUY8n3Ku1IfrAKDWFz7RzVlLJzu97ME?usp=sharing">
+                    <a href="https://drive.google.com/drive/folders/1es2WIAlQNUilZT24vMRVlEhjNxuU9WzO?usp=sharing">
                       Wilver Roberto Sanchez
                     </a>
                   </td>
@@ -109,7 +109,7 @@ export default function DetailSilabo() {
                 <tr>
                   <td className="col1">Artículo.</td>
                   <td className="col2">
-                    <a href="https://drive.google.com/file/d/1TEKqo2sOFWDmA9rAAhyB-bsuARH27t-N/view?usp=sharing">
+                    <a href="https://drive.google.com/drive/folders/1YFbLPK8dKlITKFYlYRt_inr5OlDbMGf1?usp=sharing">
                       Emil Zapata
                     </a>
                     <br />
@@ -121,7 +121,7 @@ export default function DetailSilabo() {
                 <tr>
                   <td className="col1">Formato de inscripción tesis.</td>
                   <td className="col2">
-                    <a href="https://drive.google.com/file/d/1fEI5DmvCrnzKEdi4WNSK-vX-LO4zbUQ8/view?usp=sharing">
+                    <a href="https://drive.google.com/drive/folders/1s-vueVBhsRc1B1nl7to5d9FawIUPlUxU?usp=sharing">
                       Emil Zapata
                     </a>
                     <br />

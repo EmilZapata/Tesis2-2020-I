@@ -159,7 +159,7 @@ const dataSilabo = [
     description: "Tesis hasta el cap VI y Artículo.",
     link: [
       "https://drive.google.com/drive/folders/1Iygp2QkBpJ1p87udwcMl426gtm2k0bn6?usp=sharing",
-      "https://drive.google.com/drive/folders/1YhUY8n3Ku1IfrAKDWFz7RzVlLJzu97ME?usp=sharing",
+      "https://drive.google.com/drive/folders/1u9D7u8g2YdTY0sR1evWXDEOBbojqsdJr?usp=sharing",
     ],
     observaciones: "",
   },
