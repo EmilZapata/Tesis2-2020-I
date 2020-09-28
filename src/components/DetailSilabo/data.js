@@ -101,6 +101,40 @@ const dataSilabo = [
       "https://drive.google.com/drive/folders/1Iygp2QkBpJ1p87udwcMl426gtm2k0bn6?usp=sharing",
     observaciones: "Corregir formato del documento y agregar Cápitulo 3",
   },
+  {
+    semana: 13,
+    title: "Presentación Final de los primeros 3 capítulos de la tesis",
+    description:
+      "Se realiza una revision general de los primeros 3 capítulos de la tesis",
+    link:
+      "https://drive.google.com/drive/folders/1Iygp2QkBpJ1p87udwcMl426gtm2k0bn6?usp=sharing",
+    observaciones: "Corregir formato del documento y agregar Cápitulo 3",
+  },
+  {
+    semana: 14,
+    title: "Presentación Final de los primeros 3 capítulos de la tesis",
+    description:
+      "Se realiza una revision general de los primeros 3 capítulos de la tesis",
+    link:
+      "https://drive.google.com/drive/folders/1Iygp2QkBpJ1p87udwcMl426gtm2k0bn6?usp=sharing",
+    observaciones: "Corregir formato del documento y agregar Cápitulo 3",
+  },
+  {
+    semana: 15,
+    title: "Presentación a Jurado",
+    description: "Presentación a Jurado",
+    link:
+      "https://drive.google.com/drive/folders/1ByGcRKFEFCvkt2QiOfQ2j64ge1Y1su9r?usp=sharing",
+    observaciones: "",
+  },
+  {
+    semana: 16,
+    title: "Presentación Final",
+    description: "Presentación Final y Articulo",
+    link:
+      "https://drive.google.com/drive/folders/1Iygp2QkBpJ1p87udwcMl426gtm2k0bn6?usp=sharing",
+    observaciones: "",
+  },
 ];
 
 export default dataSilabo;
