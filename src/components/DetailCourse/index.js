@@ -103,11 +103,11 @@ export default function DetailCourse() {
                 <td className="pr-3">
                   <b>Alumno: </b>
                 </td>
-                <td className="pr-3">Balvin Esteban Raul Ricardo</td>
+                <td className="pr-3">Wilver Roberto Sanchez Huaccho</td>
                 <td className="pr-3">
                   <b>Cod: </b>
                 </td>
-                <td>13200139</td>
+                <td>05200057</td>
               </tr>
               <tr>
                 <td>

@@ -51,17 +51,31 @@ export default function DetailSilabo() {
                     </td>
                     <td className="col3">
                       {data.link && (
-                        <a
-                          target="_blank"
-                          href={data.link}
-                          rel="noopener noreferrer"
-                        >
-                          <i
-                            className="fa fa-file-powerpoint-o"
-                            aria-hidden="true"
-                          ></i>
-                          <span>Emil Zapata</span>
-                        </a>
+                        <>
+                          <a
+                            target="_blank"
+                            href={data.link[0]}
+                            rel="noopener noreferrer"
+                          >
+                            <i
+                              className="fa fa-file-powerpoint-o"
+                              aria-hidden="true"
+                            ></i>
+                            <span>Emil Zapata</span>
+                          </a>
+                          <br />
+                          <a
+                            target="_blank"
+                            href={data.link[1]}
+                            rel="noopener noreferrer"
+                          >
+                            <i
+                              className="fa fa-file-powerpoint-o"
+                              aria-hidden="true"
+                            ></i>
+                            <span>Wilver Sanchez</span>
+                          </a>
+                        </>
                       )}
                     </td>
                     <td className="col3">{data.observaciones}</td>
@@ -86,6 +100,10 @@ export default function DetailSilabo() {
                     <a href="https://drive.google.com/file/d/1UT04eEBuiAd9OeqwPt_wKDPZZwyp-pE8/view?usp=sharing">
                       Emil Zapata
                     </a>
+                    <br />
+                    <a href="https://drive.google.com/drive/folders/1YhUY8n3Ku1IfrAKDWFz7RzVlLJzu97ME?usp=sharing">
+                      Wilver Roberto Sanchez
+                    </a>
                   </td>
                 </tr>
                 <tr>
@@ -93,6 +111,10 @@ export default function DetailSilabo() {
                   <td className="col2">
                     <a href="https://drive.google.com/file/d/1TEKqo2sOFWDmA9rAAhyB-bsuARH27t-N/view?usp=sharing">
                       Emil Zapata
+                    </a>
+                    <br />
+                    <a href="https://drive.google.com/drive/folders/1YhUY8n3Ku1IfrAKDWFz7RzVlLJzu97ME?usp=sharing">
+                      Wilver Roberto Sanchez
                     </a>
                   </td>
                 </tr>
@@ -102,6 +124,10 @@ export default function DetailSilabo() {
                     <a href="https://drive.google.com/file/d/1fEI5DmvCrnzKEdi4WNSK-vX-LO4zbUQ8/view?usp=sharing">
                       Emil Zapata
                     </a>
+                    <br />
+                    <a href="https://drive.google.com/drive/folders/1YhUY8n3Ku1IfrAKDWFz7RzVlLJzu97ME?usp=sharing">
+                      Wilver Roberto Sanchez
+                    </a>
                   </td>
                 </tr>
                 <tr>
@@ -109,6 +135,10 @@ export default function DetailSilabo() {
                   <td className="col2">
                     <a href="https://drive.google.com/file/d/1zCoHeAOMhlbyylX2KcBK-7A5yx9Bj-XL/view?usp=sharing">
                       Emil Zapata
+                    </a>
+                    <br />
+                    <a href="https://drive.google.com/drive/folders/1YhUY8n3Ku1IfrAKDWFz7RzVlLJzu97ME?usp=sharing">
+                      Wilver Roberto Sanchez
                     </a>
                   </td>
                 </tr>
